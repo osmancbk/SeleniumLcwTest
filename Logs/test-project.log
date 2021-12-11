@@ -1,0 +1,62 @@
+2021-12-11 22:03:52 INFO  BaseTest:26 - Test Başlıyor.
+2021-12-11 22:03:56 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-12-11 22:03:59 INFO  BasePage:30 - Anasayfa açıldı.
+2021-12-11 22:03:59 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-12-11 22:04:00 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 22:04:08 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-12-11 22:04:26 INFO  BaseTest:38 - Test bitti
+2021-12-11 22:09:10 INFO  BaseTest:26 - Test Başlıyor.
+2021-12-11 22:09:14 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-12-11 22:09:17 INFO  BasePage:30 - Anasayfa açıldı.
+2021-12-11 22:09:17 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-12-11 22:09:20 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 22:09:23 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-12-11 22:09:42 INFO  BaseTest:38 - Test bitti
+2021-12-11 22:38:09 INFO  BaseTest:25 - Start Test.
+2021-12-11 22:38:12 INFO  BasePage:21 - Website opens
+2021-12-11 22:38:18 INFO  BasePage:30 - Anasayfa açıldı.
+2021-12-11 22:38:18 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-12-11 22:38:18 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 22:38:26 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-12-11 22:38:44 INFO  BaseTest:37 - Finish Test
+2021-12-11 22:56:27 INFO  BaseTest:25 - Start Test.
+2021-12-11 22:56:31 INFO  BasePage:21 - Website opens
+2021-12-11 22:56:35 INFO  BasePage:30 - Anasayfa açıldı.
+2021-12-11 22:56:35 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-12-11 22:56:36 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 22:56:44 INFO  BaseTest:37 - Finish Test
+2021-12-11 22:57:35 INFO  BaseTest:25 - Start Test.
+2021-12-11 22:57:38 INFO  BasePage:21 - Website opens
+2021-12-11 22:57:42 INFO  BasePage:30 - Anasayfa açıldı.
+2021-12-11 22:57:42 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-12-11 22:57:45 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 22:57:48 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-12-11 22:58:21 INFO  BaseTest:37 - Finish Test
+2021-12-11 23:10:55 INFO  BaseTest:25 - Start Test.
+2021-12-11 23:10:59 INFO  BasePage:21 - Website start...
+2021-12-11 23:11:03 INFO  BasePage:30 - HomePage control OK.
+2021-12-11 23:11:03 INFO  BasePage:35 - LoginPage açılıyor...
+2021-12-11 23:11:07 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 23:11:12 INFO  BasePage:43 - Login successful
+2021-12-11 23:11:30 INFO  BaseTest:37 - Finish Test
+2021-12-11 23:22:58 INFO  BaseTest:25 - Start Test.
+2021-12-11 23:23:02 INFO  BasePage:21 - Website start...
+2021-12-11 23:23:05 INFO  BasePage:30 - HomePage control başarılı.
+2021-12-11 23:23:05 INFO  BasePage:35 - LoginPage açılıyor...
+2021-12-11 23:23:13 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 23:23:16 INFO  BasePage:43 - Login başarılı
+2021-12-11 23:23:39 INFO  BaseTest:37 - Finish Test
+2021-12-11 23:25:47 INFO  BaseTest:25 - Start Test.
+2021-12-11 23:25:51 INFO  BasePage:18 - Website start...
+2021-12-11 23:25:54 INFO  BasePage:27 - HomePage control başarılı.
+2021-12-11 23:25:54 INFO  BasePage:32 - LoginPage açılıyor...
+2021-12-11 23:25:55 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 23:26:01 INFO  BasePage:40 - Login başarılı
+2021-12-11 23:26:20 INFO  BaseTest:37 - Finish Test
+2021-12-11 23:43:28 INFO  BaseTest:25 - Start Test.
+2021-12-11 23:43:33 INFO  BasePage:18 - Website start...
+2021-12-11 23:43:38 INFO  BasePage:27 - HomePage control başarılı.
+2021-12-11 23:43:38 INFO  BasePage:32 - LoginPage açılıyor...
+2021-12-11 23:43:39 INFO  BasePage:16 - Giriş yapılıyor.
+2021-12-11 23:43:46 INFO  BasePage:40 - Login başarılı
+2021-12-11 23:44:09 INFO  BaseTest:37 - Finish Test
